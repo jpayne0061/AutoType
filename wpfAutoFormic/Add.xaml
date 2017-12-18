@@ -1,0 +1,27 @@
+﻿<Window x:Class="wpfAutoFormic.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfAutoFormic"
+        mc:Ignorable="d"
+        Title="Add" Height="300" Width="300">
+    <Grid Name="AddWindow">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row ="1" Content="Enter some text" Margin="5"/>
+        <TextBox Grid.Row="2" Name="MyTextBox" Margin="5" Text=""/>
+        <Label Grid.Row="3" Content="Name Your Text" Margin="5"/>
+        <TextBox Grid.Row="4" Name="TextName" Margin="5" Text=""/>
+        <Button Grid.Row="5" Content="OK" Margin="5" Click="Button_Click"/>
+    </Grid>
+
+
+</Window>

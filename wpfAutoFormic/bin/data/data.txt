@@ -1,0 +1,22 @@
+1|Hello, world!|hello
+2|a third|third
+3|yellow|yell
+4|foutrth|fior
+5|yaba daba doo|taba6
+6|select * from feeds|feeds
+7|select * from cars|select cars
+8|here is some text to write|write text
+9|add some etx|add
+10|add mre|more11|more text more |t more
+11|more text more xxxx |t more x
+12|select * from cars join toilets|car toilets
+13|select * from all the dbs|select all
+14|select * from all the dbs|select all
+15|yoyoyoyoyoyyooy|yo
+16|do all tht e things|do it
+17|about to finish up|finish
+18|some etxt here|some
+19|some etxt to do|to do
+20|yahoo dooo|yadoo
+21|rapper ett|ett
+22|cooli foolia|folia lopp yv
